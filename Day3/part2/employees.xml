@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Employees SYSTEM "employees.dtd">
-<?xml-stylesheet type="text/css" href="employee.css"?>
-
-<Employees>
-  <Employee>
+<Employees >
+<Employee>
     <Name>Samar Samy</Name>
     <Phones>
       <Phone Type="home">5192074</Phone>
@@ -14,7 +11,7 @@
         <Street>Main St.</Street>
         <BuildingNumber>11</BuildingNumber>
         <Region>Smouha</Region>
-        <City>Aleaxandria</City>
+        <City>Alexandria</City>
         <Country>Egypt</Country>
       </Address>
       <Address>
